@@ -1,0 +1,19 @@
+{
+  "estudiantes": [
+    {
+      "nombre": "Juan",
+      "edad": 20,
+      "grado": "Ingeniería Informática"
+    },
+    {
+      "nombre": "Ana",
+      "edad": 22,
+      "grado": "Matemáticas"
+    },
+    {
+      "nombre": "Carlos",
+      "edad": 23,
+      "grado": "Física"
+    }
+  ]
+}

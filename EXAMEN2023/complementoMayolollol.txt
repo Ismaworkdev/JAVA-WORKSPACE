@@ -1,0 +1,619 @@
+ El monitor  lol tiene los dias EN EL MES  : Mayo Dia: 1Hora de la clase: 10.0Número de participantes: 24Hora de la clase: 16.0Número de participantes: 20 Dia: 2Hora de la clase: 10.0Número de participantes: 18Hora de la clase: 16.0Número de participantes: 21 Dia: 3Hora de la clase: 10.0Número de participantes: 20Hora de la clase: 16.0Número de participantes: 19 Dia: 4Hora de la clase: 10.0Número de participantes: 25Hora de la clase: 16.0Número de participantes: 22 Dia: 5Hora de la clase: 10.0Número de participantes: 19Hora de la clase: 16.0Número de participantes: 23 Dia: 6Hora de la clase: 10.0Número de participantes: 22Hora de la clase: 16.0Número de participantes: 20 Dia: 7Hora de la clase: 10.0Número de participantes: 21Hora de la clase: 16.0Número de participantes: 24 Dia: 8Hora de la clase: 10.0Número de participantes: 22Hora de la clase: 16.0Número de participantes: 23 Dia: 9Hora de la clase: 10.0Número de participantes: 23Hora de la clase: 16.0Número de participantes: 18 Dia: 10Hora de la clase: 10.0Número de participantes: 24Hora de la clase: 16.0Número de participantes: 20 Dia: 11Hora de la clase: 10.0Número de participantes: 18Hora de la clase: 16.0Número de participantes: 21 Dia: 12Hora de la clase: 10.0Número de participantes: 20Hora de la clase: 16.0Número de participantes: 19 Dia: 13Hora de la clase: 10.0Número de participantes: 25Hora de la clase: 16.0Número de participantes: 22 Dia: 14Hora de la clase: 10.0Número de participantes: 19Hora de la clase: 16.0Número de participantes: 23 Dia: 15Hora de la clase: 10.0Número de participantes: 22Hora de la clase: 16.0Número de participantes: 20 Dia: 1Hora de la clase: 10.0Número de participantes: 24Hora de la clase: 16.0Número de participantes: 20 Dia: 2Hora de la clase: 10.0Número de participantes: 18Hora de la clase: 16.0Número de participantes: 21 Dia: 3Hora de la clase: 10.0Número de participantes: 20Hora de la clase: 16.0Número de participantes: 19 Dia: 4Hora de la clase: 10.0Número de participantes: 25Hora de la clase: 16.0Número de participantes: 22 Dia: 5Hora de la clase: 10.0Número de participantes: 19Hora de la clase: 16.0Número de participantes: 23 Dia: 6Hora de la clase: 10.0Número de participantes: 22Hora de la clase: 16.0Número de participantes: 20 Dia: 7Hora de la clase: 10.0Número de participantes: 21Hora de la clase: 16.0Número de participantes: 24 Dia: 8Hora de la clase: 10.0Número de participantes: 22Hora de la clase: 16.0Número de participantes: 23 Dia: 9Hora de la clase: 10.0Número de participantes: 23Hora de la clase: 16.0Número de participantes: 18 Dia: 10Hora de la clase: 10.0Número de participantes: 24Hora de la clase: 16.0Número de participantes: 20 Dia: 11Hora de la clase: 10.0Número de participantes: 18Hora de la clase: 16.0Número de participantes: 21 Dia: 12Hora de la clase: 10.0Número de participantes: 20Hora de la clase: 16.0Número de participantes: 19 Dia: 13Hora de la clase: 10.0Número de participantes: 25Hora de la clase: 16.0Número de participantes: 22 Dia: 14Hora de la clase: 10.0Número de participantes: 19Hora de la clase: 16.0Número de participantes: 23 Dia: 15Hora de la clase: 10.0Número de participantes: 22Hora de la clase: 16.0Número de participantes: 20Total de participantes: 1274Total de clases: 60Dinero total: 682 euros 
+El monitor  lol tiene los dias EN EL MES  : Mayo
+Dia: 1Hora de la clase: 10.0Número de participantes: 24Hora de la clase: 16.0Número de participantes: 20
+Dia: 2Hora de la clase: 10.0Número de participantes: 18Hora de la clase: 16.0Número de participantes: 21
+Dia: 3Hora de la clase: 10.0Número de participantes: 20Hora de la clase: 16.0Número de participantes: 19
+Dia: 4Hora de la clase: 10.0Número de participantes: 25Hora de la clase: 16.0Número de participantes: 22
+Dia: 5Hora de la clase: 10.0Número de participantes: 19Hora de la clase: 16.0Número de participantes: 23
+Dia: 6Hora de la clase: 10.0Número de participantes: 22Hora de la clase: 16.0Número de participantes: 20
+Dia: 7Hora de la clase: 10.0Número de participantes: 21Hora de la clase: 16.0Número de participantes: 24
+Dia: 8Hora de la clase: 10.0Número de participantes: 22Hora de la clase: 16.0Número de participantes: 23
+Dia: 9Hora de la clase: 10.0Número de participantes: 23Hora de la clase: 16.0Número de participantes: 18
+Dia: 10Hora de la clase: 10.0Número de participantes: 24Hora de la clase: 16.0Número de participantes: 20
+Dia: 11Hora de la clase: 10.0Número de participantes: 18Hora de la clase: 16.0Número de participantes: 21
+Dia: 12Hora de la clase: 10.0Número de participantes: 20Hora de la clase: 16.0Número de participantes: 19
+Dia: 13Hora de la clase: 10.0Número de participantes: 25Hora de la clase: 16.0Número de participantes: 22
+Dia: 14Hora de la clase: 10.0Número de participantes: 19Hora de la clase: 16.0Número de participantes: 23
+Dia: 15Hora de la clase: 10.0Número de participantes: 22Hora de la clase: 16.0Número de participantes: 20
+Dia: 1Hora de la clase: 10.0Número de participantes: 24Hora de la clase: 16.0Número de participantes: 20
+Dia: 2Hora de la clase: 10.0Número de participantes: 18Hora de la clase: 16.0Número de participantes: 21
+Dia: 3Hora de la clase: 10.0Número de participantes: 20Hora de la clase: 16.0Número de participantes: 19
+Dia: 4Hora de la clase: 10.0Número de participantes: 25Hora de la clase: 16.0Número de participantes: 22
+Dia: 5Hora de la clase: 10.0Número de participantes: 19Hora de la clase: 16.0Número de participantes: 23
+Dia: 6Hora de la clase: 10.0Número de participantes: 22Hora de la clase: 16.0Número de participantes: 20
+Dia: 7Hora de la clase: 10.0Número de participantes: 21Hora de la clase: 16.0Número de participantes: 24
+Dia: 8Hora de la clase: 10.0Número de participantes: 22Hora de la clase: 16.0Número de participantes: 23
+Dia: 9Hora de la clase: 10.0Número de participantes: 23Hora de la clase: 16.0Número de participantes: 18
+Dia: 10Hora de la clase: 10.0Número de participantes: 24Hora de la clase: 16.0Número de participantes: 20
+Dia: 11Hora de la clase: 10.0Número de participantes: 18Hora de la clase: 16.0Número de participantes: 21
+Dia: 12Hora de la clase: 10.0Número de participantes: 20Hora de la clase: 16.0Número de participantes: 19
+Dia: 13Hora de la clase: 10.0Número de participantes: 25Hora de la clase: 16.0Número de participantes: 22
+Dia: 14Hora de la clase: 10.0Número de participantes: 19Hora de la clase: 16.0Número de participantes: 23
+Dia: 15Hora de la clase: 10.0Número de participantes: 22Hora de la clase: 16.0Número de participantes: 20Total de participantes: 1274Total de clases: 60Dinero total: 682 euros
+
+El monitor  lol tiene los dias EN EL MES  : Mayo
+Dia: 1Hora de la clase: 10.0
+Número de participantes: 24Hora de la clase: 16.0
+Número de participantes: 20
+Dia: 2Hora de la clase: 10.0
+Número de participantes: 18Hora de la clase: 16.0
+Número de participantes: 21
+Dia: 3Hora de la clase: 10.0
+Número de participantes: 20Hora de la clase: 16.0
+Número de participantes: 19
+Dia: 4Hora de la clase: 10.0
+Número de participantes: 25Hora de la clase: 16.0
+Número de participantes: 22
+Dia: 5Hora de la clase: 10.0
+Número de participantes: 19Hora de la clase: 16.0
+Número de participantes: 23
+Dia: 6Hora de la clase: 10.0
+Número de participantes: 22Hora de la clase: 16.0
+Número de participantes: 20
+Dia: 7Hora de la clase: 10.0
+Número de participantes: 21Hora de la clase: 16.0
+Número de participantes: 24
+Dia: 8Hora de la clase: 10.0
+Número de participantes: 22Hora de la clase: 16.0
+Número de participantes: 23
+Dia: 9Hora de la clase: 10.0
+Número de participantes: 23Hora de la clase: 16.0
+Número de participantes: 18
+Dia: 10Hora de la clase: 10.0
+Número de participantes: 24Hora de la clase: 16.0
+Número de participantes: 20
+Dia: 11Hora de la clase: 10.0
+Número de participantes: 18Hora de la clase: 16.0
+Número de participantes: 21
+Dia: 12Hora de la clase: 10.0
+Número de participantes: 20Hora de la clase: 16.0
+Número de participantes: 19
+Dia: 13Hora de la clase: 10.0
+Número de participantes: 25Hora de la clase: 16.0
+Número de participantes: 22
+Dia: 14Hora de la clase: 10.0
+Número de participantes: 19Hora de la clase: 16.0
+Número de participantes: 23
+Dia: 15Hora de la clase: 10.0
+Número de participantes: 22Hora de la clase: 16.0
+Número de participantes: 20
+Dia: 1Hora de la clase: 10.0
+Número de participantes: 24Hora de la clase: 16.0
+Número de participantes: 20
+Dia: 2Hora de la clase: 10.0
+Número de participantes: 18Hora de la clase: 16.0
+Número de participantes: 21
+Dia: 3Hora de la clase: 10.0
+Número de participantes: 20Hora de la clase: 16.0
+Número de participantes: 19
+Dia: 4Hora de la clase: 10.0
+Número de participantes: 25Hora de la clase: 16.0
+Número de participantes: 22
+Dia: 5Hora de la clase: 10.0
+Número de participantes: 19Hora de la clase: 16.0
+Número de participantes: 23
+Dia: 6Hora de la clase: 10.0
+Número de participantes: 22Hora de la clase: 16.0
+Número de participantes: 20
+Dia: 7Hora de la clase: 10.0
+Número de participantes: 21Hora de la clase: 16.0
+Número de participantes: 24
+Dia: 8Hora de la clase: 10.0
+Número de participantes: 22Hora de la clase: 16.0
+Número de participantes: 23
+Dia: 9Hora de la clase: 10.0
+Número de participantes: 23Hora de la clase: 16.0
+Número de participantes: 18
+Dia: 10Hora de la clase: 10.0
+Número de participantes: 24Hora de la clase: 16.0
+Número de participantes: 20
+Dia: 11Hora de la clase: 10.0
+Número de participantes: 18Hora de la clase: 16.0
+Número de participantes: 21
+Dia: 12Hora de la clase: 10.0
+Número de participantes: 20Hora de la clase: 16.0
+Número de participantes: 19
+Dia: 13Hora de la clase: 10.0
+Número de participantes: 25Hora de la clase: 16.0
+Número de participantes: 22
+Dia: 14Hora de la clase: 10.0
+Número de participantes: 19Hora de la clase: 16.0
+Número de participantes: 23
+Dia: 15Hora de la clase: 10.0
+Número de participantes: 22Hora de la clase: 16.0
+Número de participantes: 20
+Total de participantes: 1274Total de clases: 60
+Dinero total: 682 euros
+
+El monitor  lol tiene los dias EN EL MES  : Mayo
+Dia: 1
+Hora de la clase: 10.0
+Número de participantes: 24
+Hora de la clase: 16.0
+Número de participantes: 20
+Dia: 2
+Hora de la clase: 10.0
+Número de participantes: 18
+Hora de la clase: 16.0
+Número de participantes: 21
+Dia: 3
+Hora de la clase: 10.0
+Número de participantes: 20
+Hora de la clase: 16.0
+Número de participantes: 19
+Dia: 4
+Hora de la clase: 10.0
+Número de participantes: 25
+Hora de la clase: 16.0
+Número de participantes: 22
+Dia: 5
+Hora de la clase: 10.0
+Número de participantes: 19
+Hora de la clase: 16.0
+Número de participantes: 23
+Dia: 6
+Hora de la clase: 10.0
+Número de participantes: 22
+Hora de la clase: 16.0
+Número de participantes: 20
+Dia: 7
+Hora de la clase: 10.0
+Número de participantes: 21
+Hora de la clase: 16.0
+Número de participantes: 24
+Dia: 8
+Hora de la clase: 10.0
+Número de participantes: 22
+Hora de la clase: 16.0
+Número de participantes: 23
+Dia: 9
+Hora de la clase: 10.0
+Número de participantes: 23
+Hora de la clase: 16.0
+Número de participantes: 18
+Dia: 10
+Hora de la clase: 10.0
+Número de participantes: 24
+Hora de la clase: 16.0
+Número de participantes: 20
+Dia: 11
+Hora de la clase: 10.0
+Número de participantes: 18
+Hora de la clase: 16.0
+Número de participantes: 21
+Dia: 12
+Hora de la clase: 10.0
+Número de participantes: 20
+Hora de la clase: 16.0
+Número de participantes: 19
+Dia: 13
+Hora de la clase: 10.0
+Número de participantes: 25
+Hora de la clase: 16.0
+Número de participantes: 22
+Dia: 14
+Hora de la clase: 10.0
+Número de participantes: 19
+Hora de la clase: 16.0
+Número de participantes: 23
+Dia: 15
+Hora de la clase: 10.0
+Número de participantes: 22
+Hora de la clase: 16.0
+Número de participantes: 20
+Dia: 1
+Hora de la clase: 10.0
+Número de participantes: 24
+Hora de la clase: 16.0
+Número de participantes: 20
+Dia: 2
+Hora de la clase: 10.0
+Número de participantes: 18
+Hora de la clase: 16.0
+Número de participantes: 21
+Dia: 3
+Hora de la clase: 10.0
+Número de participantes: 20
+Hora de la clase: 16.0
+Número de participantes: 19
+Dia: 4
+Hora de la clase: 10.0
+Número de participantes: 25
+Hora de la clase: 16.0
+Número de participantes: 22
+Dia: 5
+Hora de la clase: 10.0
+Número de participantes: 19
+Hora de la clase: 16.0
+Número de participantes: 23
+Dia: 6
+Hora de la clase: 10.0
+Número de participantes: 22
+Hora de la clase: 16.0
+Número de participantes: 20
+Dia: 7
+Hora de la clase: 10.0
+Número de participantes: 21
+Hora de la clase: 16.0
+Número de participantes: 24
+Dia: 8
+Hora de la clase: 10.0
+Número de participantes: 22
+Hora de la clase: 16.0
+Número de participantes: 23
+Dia: 9
+Hora de la clase: 10.0
+Número de participantes: 23
+Hora de la clase: 16.0
+Número de participantes: 18
+Dia: 10
+Hora de la clase: 10.0
+Número de participantes: 24
+Hora de la clase: 16.0
+Número de participantes: 20
+Dia: 11
+Hora de la clase: 10.0
+Número de participantes: 18
+Hora de la clase: 16.0
+Número de participantes: 21
+Dia: 12
+Hora de la clase: 10.0
+Número de participantes: 20
+Hora de la clase: 16.0
+Número de participantes: 19
+Dia: 13
+Hora de la clase: 10.0
+Número de participantes: 25
+Hora de la clase: 16.0
+Número de participantes: 22
+Dia: 14
+Hora de la clase: 10.0
+Número de participantes: 19
+Hora de la clase: 16.0
+Número de participantes: 23
+Dia: 15
+Hora de la clase: 10.0
+Número de participantes: 22
+Hora de la clase: 16.0
+Número de participantes: 20
+Total de participantes: 1274Total de clases: 60
+Dinero total: 682 euros
+
+El monitor  lol tiene los dias EN EL MES  : Mayo
+Dia: 1
+Hora de la clase: 10.0
+Número de participantes: 24
+Hora de la clase: 16.0
+Número de participantes: 20
+Dia: 2
+Hora de la clase: 10.0
+Número de participantes: 18
+Hora de la clase: 16.0
+Número de participantes: 21
+Dia: 3
+Hora de la clase: 10.0
+Número de participantes: 20
+Hora de la clase: 16.0
+Número de participantes: 19
+Dia: 4
+Hora de la clase: 10.0
+Número de participantes: 25
+Hora de la clase: 16.0
+Número de participantes: 22
+Dia: 5
+Hora de la clase: 10.0
+Número de participantes: 19
+Hora de la clase: 16.0
+Número de participantes: 23
+Dia: 6
+Hora de la clase: 10.0
+Número de participantes: 22
+Hora de la clase: 16.0
+Número de participantes: 20
+Dia: 7
+Hora de la clase: 10.0
+Número de participantes: 21
+Hora de la clase: 16.0
+Número de participantes: 24
+Dia: 8
+Hora de la clase: 10.0
+Número de participantes: 22
+Hora de la clase: 16.0
+Número de participantes: 23
+Dia: 9
+Hora de la clase: 10.0
+Número de participantes: 23
+Hora de la clase: 16.0
+Número de participantes: 18
+Dia: 10
+Hora de la clase: 10.0
+Número de participantes: 24
+Hora de la clase: 16.0
+Número de participantes: 20
+Dia: 11
+Hora de la clase: 10.0
+Número de participantes: 18
+Hora de la clase: 16.0
+Número de participantes: 21
+Dia: 12
+Hora de la clase: 10.0
+Número de participantes: 20
+Hora de la clase: 16.0
+Número de participantes: 19
+Dia: 13
+Hora de la clase: 10.0
+Número de participantes: 25
+Hora de la clase: 16.0
+Número de participantes: 22
+Dia: 14
+Hora de la clase: 10.0
+Número de participantes: 19
+Hora de la clase: 16.0
+Número de participantes: 23
+Dia: 15
+Hora de la clase: 10.0
+Número de participantes: 22
+Hora de la clase: 16.0
+Número de participantes: 20
+Dia: 1
+Hora de la clase: 10.0
+Número de participantes: 24
+Hora de la clase: 16.0
+Número de participantes: 20
+Dia: 2
+Hora de la clase: 10.0
+Número de participantes: 18
+Hora de la clase: 16.0
+Número de participantes: 21
+Dia: 3
+Hora de la clase: 10.0
+Número de participantes: 20
+Hora de la clase: 16.0
+Número de participantes: 19
+Dia: 4
+Hora de la clase: 10.0
+Número de participantes: 25
+Hora de la clase: 16.0
+Número de participantes: 22
+Dia: 5
+Hora de la clase: 10.0
+Número de participantes: 19
+Hora de la clase: 16.0
+Número de participantes: 23
+Dia: 6
+Hora de la clase: 10.0
+Número de participantes: 22
+Hora de la clase: 16.0
+Número de participantes: 20
+Dia: 7
+Hora de la clase: 10.0
+Número de participantes: 21
+Hora de la clase: 16.0
+Número de participantes: 24
+Dia: 8
+Hora de la clase: 10.0
+Número de participantes: 22
+Hora de la clase: 16.0
+Número de participantes: 23
+Dia: 9
+Hora de la clase: 10.0
+Número de participantes: 23
+Hora de la clase: 16.0
+Número de participantes: 18
+Dia: 10
+Hora de la clase: 10.0
+Número de participantes: 24
+Hora de la clase: 16.0
+Número de participantes: 20
+Dia: 11
+Hora de la clase: 10.0
+Número de participantes: 18
+Hora de la clase: 16.0
+Número de participantes: 21
+Dia: 12
+Hora de la clase: 10.0
+Número de participantes: 20
+Hora de la clase: 16.0
+Número de participantes: 19
+Dia: 13
+Hora de la clase: 10.0
+Número de participantes: 25
+Hora de la clase: 16.0
+Número de participantes: 22
+Dia: 14
+Hora de la clase: 10.0
+Número de participantes: 19
+Hora de la clase: 16.0
+Número de participantes: 23
+Dia: 15
+Hora de la clase: 10.0
+Número de participantes: 22
+Hora de la clase: 16.0
+Número de participantes: 20
+Total de participantes: 1274
+Total de clases: 60
+Dinero total: 682 euros
+El monitor  lol tiene los dias EN EL MES  : Mayo
+Dia: 1
+Hora de la clase: 10.0
+Número de participantes: 24
+Hora de la clase: 16.0
+Número de participantes: 20
+
+Dia: 2
+Hora de la clase: 10.0
+Número de participantes: 18
+Hora de la clase: 16.0
+Número de participantes: 21
+
+Dia: 3
+Hora de la clase: 10.0
+Número de participantes: 20
+Hora de la clase: 16.0
+Número de participantes: 19
+
+Dia: 4
+Hora de la clase: 10.0
+Número de participantes: 25
+Hora de la clase: 16.0
+Número de participantes: 22
+
+Dia: 5
+Hora de la clase: 10.0
+Número de participantes: 19
+Hora de la clase: 16.0
+Número de participantes: 23
+
+Dia: 6
+Hora de la clase: 10.0
+Número de participantes: 22
+Hora de la clase: 16.0
+Número de participantes: 20
+
+Dia: 7
+Hora de la clase: 10.0
+Número de participantes: 21
+Hora de la clase: 16.0
+Número de participantes: 24
+
+Dia: 8
+Hora de la clase: 10.0
+Número de participantes: 22
+Hora de la clase: 16.0
+Número de participantes: 23
+
+Dia: 9
+Hora de la clase: 10.0
+Número de participantes: 23
+Hora de la clase: 16.0
+Número de participantes: 18
+
+Dia: 10
+Hora de la clase: 10.0
+Número de participantes: 24
+Hora de la clase: 16.0
+Número de participantes: 20
+
+Dia: 11
+Hora de la clase: 10.0
+Número de participantes: 18
+Hora de la clase: 16.0
+Número de participantes: 21
+
+Dia: 12
+Hora de la clase: 10.0
+Número de participantes: 20
+Hora de la clase: 16.0
+Número de participantes: 19
+
+Dia: 13
+Hora de la clase: 10.0
+Número de participantes: 25
+Hora de la clase: 16.0
+Número de participantes: 22
+
+Dia: 14
+Hora de la clase: 10.0
+Número de participantes: 19
+Hora de la clase: 16.0
+Número de participantes: 23
+
+Dia: 15
+Hora de la clase: 10.0
+Número de participantes: 22
+Hora de la clase: 16.0
+Número de participantes: 20
+
+Dia: 1
+Hora de la clase: 10.0
+Número de participantes: 24
+Hora de la clase: 16.0
+Número de participantes: 20
+
+Dia: 2
+Hora de la clase: 10.0
+Número de participantes: 18
+Hora de la clase: 16.0
+Número de participantes: 21
+
+Dia: 3
+Hora de la clase: 10.0
+Número de participantes: 20
+Hora de la clase: 16.0
+Número de participantes: 19
+
+Dia: 4
+Hora de la clase: 10.0
+Número de participantes: 25
+Hora de la clase: 16.0
+Número de participantes: 22
+
+Dia: 5
+Hora de la clase: 10.0
+Número de participantes: 19
+Hora de la clase: 16.0
+Número de participantes: 23
+
+Dia: 6
+Hora de la clase: 10.0
+Número de participantes: 22
+Hora de la clase: 16.0
+Número de participantes: 20
+
+Dia: 7
+Hora de la clase: 10.0
+Número de participantes: 21
+Hora de la clase: 16.0
+Número de participantes: 24
+
+Dia: 8
+Hora de la clase: 10.0
+Número de participantes: 22
+Hora de la clase: 16.0
+Número de participantes: 23
+
+Dia: 9
+Hora de la clase: 10.0
+Número de participantes: 23
+Hora de la clase: 16.0
+Número de participantes: 18
+
+Dia: 10
+Hora de la clase: 10.0
+Número de participantes: 24
+Hora de la clase: 16.0
+Número de participantes: 20
+
+Dia: 11
+Hora de la clase: 10.0
+Número de participantes: 18
+Hora de la clase: 16.0
+Número de participantes: 21
+
+Dia: 12
+Hora de la clase: 10.0
+Número de participantes: 20
+Hora de la clase: 16.0
+Número de participantes: 19
+
+Dia: 13
+Hora de la clase: 10.0
+Número de participantes: 25
+Hora de la clase: 16.0
+Número de participantes: 22
+
+Dia: 14
+Hora de la clase: 10.0
+Número de participantes: 19
+Hora de la clase: 16.0
+Número de participantes: 23
+
+Dia: 15
+Hora de la clase: 10.0
+Número de participantes: 22
+Hora de la clase: 16.0
+Número de participantes: 20
+
+Total de participantes: 1274
+Total de clases: 60
+Dinero total: 682 euros

@@ -1,0 +1,14 @@
+cliente;102;1;Juan;García Perez;juangarcia@example.com;35;Madrid;Madrid;100
+cliente;103;2;Iván;López Gómez;ivanlopez@example.com;28;Talavera;Talavera;302
+publicista;101;Pablo;García Benito;pablogarcia@example.com;5
+cliente;101;3;Pedro;Martínez Rodríguez;pedromartinez@example.com;40;Sevilla;Sevilla;500
+cliente;102;4;Ana;Ruiz Sánchez;anaruiz@example.com;45;Valencia;Valencia;124
+cliente;104;5;Luis;Hernández Fernández;luishernandez@example.com;33;Málaga;Málaga;987
+publicista;102;Marta;Fernández Perea;martafernandez@example.com;2
+cliente;101;6;Sofía;Díaz Morales;sofiadiaz@example.com;31;Alicante;Alicante;125
+cliente;104;7;Carlos;Rodríguez Martín;carlosrodriguez@example.com;37;Zaragoza;Zaragoza;78
+publicista;103;Lucía;Muñoz Gomez;luciamuñoz@example.com;4
+cliente;103;8;María;Pérez Durán;mariaperez@example.com;29;Granada;Granada;100
+publicista;104;Ignacio;Estevez Osuna;ignacioestevez@example.com;6
+cliente;104;9;Diego;Gómez Gutiérrez;diegogomez@example.com;42;Córdoba;Córdoba;567
+cliente;103;10;Laura;Martínez Ruiz;lauramartinez@example.com;39;Valladolid;Valladolid;980

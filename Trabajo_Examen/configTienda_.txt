@@ -1,0 +1,6 @@
+conection:=jdbc:oracle:thin:@localhost:1521:XE
+user:=tiendaFruta
+pass:=tiendaFruta
+
+
+

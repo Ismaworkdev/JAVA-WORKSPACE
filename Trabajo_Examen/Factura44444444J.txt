@@ -1,0 +1,35 @@
+Cliente : Carlos
+metodo de pago : Bizum
+**************************pedidos realizados en 2022 ********************* 
+1002
+1004
+Cliente : Carlos
+metodo de pago : Bizum
+**************************pedidos realizados en 2022 ********************* 
+1002
+1004
+Cliente : Carlos
+metodo de pago : Bizum
+**************************pedidos realizados en 2022 ********************* 
+1002
+1004
+Detalle de la factura:
+Factura : 400044444444J
+Cliente: 44444444J
+***********************Productos*******************************
+Aguacate
+Chirimoya
+Total sin IVA: 52.2
+IVA reducido: 2.088
+Importe total : 54.288000000000004
+
+Detalle de la factura:
+Factura : 400044444444J
+Cliente: 44444444J
+***********************Productos*******************************
+Aguacate
+Chirimoya
+Total sin IVA: 52.2
+IVA reducido: 2.088
+Importe total : 54.288000000000004
+

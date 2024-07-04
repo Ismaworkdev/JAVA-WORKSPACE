@@ -1,0 +1,20 @@
+Detalle de la factura:
+Factura : 300033333333I
+Cliente: 33333333I
+***********************Productos*******************************
+Guayabas
+Chirimoya
+Total sin IVA: 26.08
+IVA reducido: 1.0432
+Importe total : 27.123199999999997
+
+Detalle de la factura:
+Factura : 300033333333I
+Cliente: 33333333I
+***********************Productos*******************************
+Guayabas
+Chirimoya
+Total sin IVA: 26.08
+IVA reducido: 1.0432
+Importe total : 27.123199999999997
+

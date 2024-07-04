@@ -1,0 +1,20 @@
+Detalle de la factura:
+Factura : 200022222222H
+Cliente: 22222222H
+***********************Productos*******************************
+Guayabas
+Aguacate
+Total sin IVA: 54.3
+IVA reducido: 2.172
+Importe total : 56.471999999999994
+
+Detalle de la factura:
+Factura : 200022222222H
+Cliente: 22222222H
+***********************Productos*******************************
+Guayabas
+Aguacate
+Total sin IVA: 54.3
+IVA reducido: 2.172
+Importe total : 56.471999999999994
+

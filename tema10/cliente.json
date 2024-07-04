@@ -1,0 +1,37 @@
+[
+  {
+   "nombre": "Juan Rodríguez",
+   "edad": 30,
+   "ciudad": "Madrid",
+   "compras": [
+     {
+       "nombreP": "Pantalones",
+       "precio": 10.50,
+       "cantidad": 2
+     },
+     {
+       "nombreP": "Camisa",
+       "precio": 25.50,
+       "cantidad": 1
+     }
+   ]
+ },
+ {
+   "nombre": "María López",
+   "edad": 35,
+   "ciudad": "Granada",
+   "compras": [
+     {
+       "nombreP": "Vestido",
+       "precio": 15.75,
+       "cantidad": 3
+     },
+     {
+       "nombreP": "Camiseta",
+       "precio": 12.00,
+       "cantidad": 2
+     }
+   
+   ]
+ }
+]

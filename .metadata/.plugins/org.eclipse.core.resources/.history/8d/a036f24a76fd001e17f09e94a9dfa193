@@ -1,0 +1,191 @@
+package Examen_2022;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class Factura implements Impuestos {
+private String factura;
+private int cod_pedido_enfactura;
+private String dni_cliente_enfactura;
+private int total;
+private ArrayList<Producto_pedido> Productos_pedidos ;
+private ArrayList<Pedido> pedido_clientess ;   //esto es pedido  
+
+
+
+	public Factura(String factura, int cod_pedido_enfactura, String dni_cliente_enfactura, int total,
+		ArrayList<Producto_pedido> productos_pedidos, ArrayList<Pedido> pedido_clientess, double totalsiniva,
+		double ivaReducido) {
+	super();
+	this.factura = factura;
+	this.cod_pedido_enfactura = cod_pedido_enfactura;
+	this.dni_cliente_enfactura = dni_cliente_enfactura;
+	this.total = 0;
+	Productos_pedidos = productos_pedidos;
+	this.pedido_clientess = pedido_clientess;
+
+}
+	
+	public Factura() {
+		super();
+		this.factura = "";
+		this.cod_pedido_enfactura = 0;
+		this.dni_cliente_enfactura = "";
+		this.total = 0;
+		Productos_pedidos =new ArrayList<Producto_pedido>();
+		this.pedido_clientess = new ArrayList<Pedido>();
+		
+	}
+
+
+	public String getFactura() {
+	return factura;
+}
+
+public void setFactura(String factura) {
+	this.factura = factura;
+}
+
+public int getCod_pedido_enfactura() {
+	return cod_pedido_enfactura;
+}
+
+public void setCod_pedido_enfactura(int cod_pedido_enfactura) {
+	this.cod_pedido_enfactura = cod_pedido_enfactura;
+}
+
+public String getDni_cliente_enfactura() {
+	return dni_cliente_enfactura;
+}
+
+public void setDni_cliente_enfactura(String dni_cliente_enfactura) {
+	this.dni_cliente_enfactura = dni_cliente_enfactura;
+}
+
+public int getTotal() {
+	return total;
+}
+
+public void setTotal(int total) {
+	this.total = total;
+}
+
+public ArrayList<Producto_pedido> getProductos_pedidos() {
+	return Productos_pedidos;
+}
+
+public void setProductos_pedidos(ArrayList<Producto_pedido> productos_pedidos) {
+	Productos_pedidos = productos_pedidos;
+}
+
+public ArrayList<Pedido> getClientess() {
+	return pedido_clientess;
+}
+
+public void setClientess(ArrayList<Pedido> pedido_clientess) {
+	this.pedido_clientess = pedido_clientess;
+}
+
+
+
+
+	@Override
+public String toString() {
+	final int maxLen = 10;
+	return "Factura [factura=" + factura + ", cod_pedido_enfactura=" + cod_pedido_enfactura + ", dni_cliente_enfactura="
+			+ dni_cliente_enfactura + ", total=" + total + ", productos_pedidos="
+			+ (Productos_pedidos != null ? Productos_pedidos.subList(0, Math.min(Productos_pedidos.size(), maxLen))
+					: null)
+			+ "]";
+}
+	
+	
+	double totalsiniva = 0;
+	double ivaReducido = 0;
+	@Override
+	public double totalsiniva() {
+	
+		for (Producto_pedido producto_pedido : Productos_pedidos) {
+			totalsiniva=	producto_pedido.getPrecio_el_kilo() * producto_pedido.getKilogramo();
+		}
+		// TODO Auto-generated method stub
+		return totalsiniva;
+	}
+
+	@Override
+	public double ivaReducido() {
+		
+	
+			ivaReducido = totalsiniva +(totalsiniva *0.4);
+		
+		// TODO Auto-generated method stub
+		return ivaReducido;
+	}
+
+	public void cargarProductosPedidos(String fichero) {
+	    this.Productos_pedidos.clear();
+	    Scanner entrada;
+	    try {
+	        entrada = new Scanner(new File(fichero));
+	        String cadena="";
+	        String linea[];
+	        cadena=entrada.nextLine();
+	        while (entrada.hasNext()) {
+	            cadena=entrada.nextLine();
+	            linea=cadena.split(";");
+	            Producto_pedido producto = new Producto_pedido(
+	                Integer.parseInt(linea[0]),
+	                Integer.parseInt(linea[1]),
+	                linea[2],
+	                linea[3],
+	                linea[4],
+	                Double.parseDouble(linea[5]),
+	                Double.parseDouble(linea[6])
+	            );
+	            this.Productos_pedidos.add(producto);
+	            System.out.println(this.Productos_pedidos);
+	        }
+	        entrada.close();
+	    } catch (FileNotFoundException e) {
+	        e.printStackTrace();
+	    }
+	}
+
+
+	
+	public void cargarPedidosClientes(String fichero) {
+	 //   this.pedido_clientess.clear();
+	    Scanner entrada_cli;
+	    try {
+	        entrada_cli = new Scanner(new File("Pedidos.csv"));
+	        String cadena_cli="";
+	        String linea1[];
+	        cadena_cli=entrada_cli.nextLine();
+	        while (entrada_cli.hasNext()) {
+	            cadena_cli=entrada_cli.nextLine();
+	            linea1=cadena_cli.split(";");
+	            Pedido pedido_cliente = new Pedido(linea1[0], linea1[1], Integer.parseInt(linea1[2]), Integer.parseInt(linea1[3]));
+	            this.pedido_clientess.add(pedido_cliente);
+	        //    System.out.println( this.pedido_clientess); // Imprimir el pedido recién agregado
+	        }
+	        entrada_cli.close();
+	    } catch (FileNotFoundException e) {
+	        e.printStackTrace();
+	    }
+	}
+
+
+
+	public class Main {
+	    public static void main(String[] args) {
+	        Factura f = new Factura();
+	    //    f.cargarProductosPedidos("ProductosPedidos.csv");
+	     //   f.cargarPedidosClientes("Pedidos.csv");
+	        
+	  /*      for (Pedido i : f.getClientess()) {
+				System.out.println(i);
+			}*/
+	    }
+}}

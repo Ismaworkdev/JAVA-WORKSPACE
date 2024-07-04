@@ -1,0 +1,30 @@
+package EXAMEN2023;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
+public class App {
+
+    public static void main(String[] args) {
+        try {
+            BD.getInstance().cargarParametrosconexion();
+
+            ArrayList<Monitor> monitores = BD.getInstance().cargarMonitor();
+            ArrayList<String> meses = new ArrayList<>(Arrays.asList("Mayo", "Marzo","Febrero","Enero", "Abril"));
+
+            for (Monitor monitor : monitores) {
+                Gerente gerente = new Gerente(monitor.getNombre(), monitor.getApellido());
+                
+                for (String mes : meses) {
+                    monitor.ClasesMonitor(mes);
+                    monitor.CalculaComplementoClase(mes);
+                    gerente.pagoMonitor(monitor, mes, 2023);
+                    System.out.println("Pago realizado para " + monitor.getNombre() + " en el mes de " + mes);
+                }
+            }
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}

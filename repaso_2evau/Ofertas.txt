@@ -1,0 +1,30 @@
+PR1,Zapatillas de running,deportes,50
+PR2,Smartphone Samsung Galaxy S2PR,tecnologia,10
+PR3,Billete de avión a París,viajes,150
+PR4,Kit de pintura acrílica,arte,75
+PR5,Blu-ray de la película "Inception",cine,30
+PR6,Álbum "Thriller" de Michael Jackson,musica,80
+PR7,Blusa de seda estampada,moda,40
+PR8,Bicicleta de montaña,deportes,120
+PR9,Reproductor de música Bluetooth,tecnologia,60
+PR10,Estuche de viaje con ruedas,viajes,90
+PR11,Libro de poesía contemporánea,arte,40
+PR12,Entrada de cine para dos personas,cine,20
+PR13,CD de la banda "Queen",musica,70
+PR14,Camiseta de algodón orgánico,moda,55
+PR15,Guantes de portero profesionales,deportes,75
+PR16,Auriculares inalámbricos con cancelación de ruido,tecnologia,115
+PR17,Paquete de vacaciones todo incluido a Tailandia,viajes,255
+PR18,Juego de acuarelas y pinceles,arte,85
+PR19,Entradas para el estreno de una película, cine,40
+PR20,Vinilo de "Abbey Road" de The Beatles,musica,90
+PR21,Pantalones vaqueros de corte recto,moda,65
+PR22,Tabla de surf de alta gama,deportes,180
+PR23,Drone con cámara 4K,tecnologia,130
+PR24,Excursión en globo aerostático al amanecer,viajes,250
+PR25,Estatuilla de escultura moderna,arte,95
+PR26,Entradas para un concierto en vivo, cine,50
+PR27,Set de instrumentos musicales para niños, musica,55
+PR28,Vestido de fiesta elegante,moda,75
+PR29,Raqueta de tenis profesional,deportes,95
+PR30,Laptop ultradelgada con pantalla táctil,tecnologia,150

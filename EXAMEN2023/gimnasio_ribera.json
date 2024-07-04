@@ -1,0 +1,8 @@
+﻿{
+    "DRIVER": "jdbc:oracle:thin:",
+    "SERVIDOR": "@cloud.riberadeltajo.es",
+    "PUERTO": "8011",
+    "SID": "XE",
+    "USUARIO": "xx",
+    "CLAVE": "xx"
+}

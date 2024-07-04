@@ -1,0 +1,8 @@
+{
+  "DRIVER": "jdbc:oracle:thin:",
+  "SERVIDOR": "localhost",
+  "PUERTO": "1521",
+  "SID": "XE",
+  "USUARIO": "xx",
+  "CLAVE": "xx"
+}

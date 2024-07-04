@@ -1,0 +1,15 @@
+Cliente : Pablo
+metodo de pago : Visa
+**************************pedidos realizados en 2022 ********************* 
+1008
+1009
+Cliente : Pablo
+metodo de pago : Visa
+**************************pedidos realizados en 2022 ********************* 
+1008
+1009
+Cliente : Pablo
+metodo de pago : Visa
+**************************pedidos realizados en 2022 ********************* 
+1008
+1009

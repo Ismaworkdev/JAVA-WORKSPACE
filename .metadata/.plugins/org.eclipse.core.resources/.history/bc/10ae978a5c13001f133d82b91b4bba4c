@@ -1,0 +1,38 @@
+package EXAMEN2023;
+
+import java.text.ParseException;
+
+public class Gerente extends Persona implements Impuestos {
+
+    public Gerente(String nombre, String apellido) {
+        super(nombre, apellido);
+    }
+
+    @Override
+    public double IRPF(double sueldo) {
+        return sueldo * 0.24;
+    }
+    
+    public void pagoMonitor(Monitor m, String mes, int year) {
+        m.CalculaComplementoClase(mes);
+        m.ClasesMonitor(mes);
+        double total = m.BASE + m.getExtraAlumno() + m.getExtraClase();
+        total = total - IRPF(total); // Resta el IRPF del total
+        
+        // Inserta los datos en la base de datos
+        try {
+            BD bd = BD.getInstance();
+            String sql = "INSERT INTO PAGOS (CODIGOMONITOR, MES, YEAR, NOMINA, ESTADO) VALUES ('" + m.getCod_monitor() + "', '" + mes + "', " + year + ", " + total + ", 'PAGADO')";
+
+            bd.executeUpdate(sql);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+    
+    public static void main(String[] args) throws ParseException, org.json.simple.parser.ParseException {
+        Monitor bm = new Monitor("100", "Maria", "Perez");
+        Gerente g = new Gerente("Maria", "Perez");
+        g.pagoMonitor(bm, "Mayo", 2023);
+    }
+}

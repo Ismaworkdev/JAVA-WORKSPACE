@@ -1,0 +1,8 @@
+﻿<properties>
+<entry key="DRIVER">jdbc:oracle:thin:</entry>
+<entry key="SERVIDOR">@localhost</entry>
+<entry key="PUERTO">1521</entry>
+<entry key="SID">XE</entry>
+<entry key="USUARIO">jardineria</entry>
+<entry key="CLAVE">jardineria</entry>
+</properties>

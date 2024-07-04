@@ -1,0 +1,26 @@
+package EXAMEN2023;
+
+public class Gerente extends Persona implements Impuestos {
+	
+	@Override
+	public double IRPF(double sueldo) {
+		return sueldo * 0.24; 
+	}
+		
+	public void pagoMonitor(Monitor m, String mes, int year) {
+		m.CalculaComplementoClase(mes);
+		m.ClasesMonitor(mes);
+		double total = m.BASE + m.getExtraAlumno() + m.getExtraClase();
+		total = total - IRPF(total); // Resta el IRPF del total
+		
+		  // Inserta los datos en la base de datos
+	    try {
+	        BD bd = BD.getInstance();
+	        String sql = "INSERT INTO MONITOR VALUES('61111111H','Iván','López','','ivan@ribera.es','101','AAAAaaaa')";
+	        bd.executeUpdate(sql);
+	    } catch (Exception e) {
+	        e.printStackTrace();
+	    }
+	}
+
+}

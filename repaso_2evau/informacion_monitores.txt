@@ -1,0 +1,9 @@
+Monitor código: 100
+Nombre: null
+Actividades:
+- Yoga - Plazas disponibles: 13
+- Yoga - Plazas disponibles: 14
+- Yoga - Plazas disponibles: 20
+- Yoga - Plazas disponibles: 20
+- Yoga - Plazas disponibles: 20
+

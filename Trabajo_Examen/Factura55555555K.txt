@@ -1,0 +1,20 @@
+Detalle de la factura:
+Factura : 500055555555K
+Cliente: 55555555K
+***********************Productos*******************************
+Aguacate
+Chirimoya
+Total sin IVA: 28.28
+IVA reducido: 1.1312
+Importe total : 29.4112
+
+Detalle de la factura:
+Factura : 500055555555K
+Cliente: 55555555K
+***********************Productos*******************************
+Aguacate
+Chirimoya
+Total sin IVA: 28.28
+IVA reducido: 1.1312
+Importe total : 29.4112
+

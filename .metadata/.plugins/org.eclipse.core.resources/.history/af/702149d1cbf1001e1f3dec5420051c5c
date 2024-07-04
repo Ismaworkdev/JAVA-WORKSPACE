@@ -1,0 +1,16 @@
+package ejer_json_propio;
+
+import java.util.ArrayList;
+
+
+
+public class App_json_autores {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		private   ArrayList<clase_autores> auts;
+		
+		
+	}
+
+}

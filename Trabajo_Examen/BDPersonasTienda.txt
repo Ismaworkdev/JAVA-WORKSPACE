@@ -1,0 +1,33 @@
+Primero conéctate al servidor de Oracle como sysdba y crea el usuario tiendaFruta con contraseña tiendaFruta.
+
+create user tiendaFruta identified by tiendaFruta;
+
+y permítele conectarse y usar los recursos
+
+grant connect, resource to tienda;
+
+Después ejecuta el siguiente script en el SQL Developer
+
+
+DROP TABLE PERSONA;
+
+
+CREATE TABLE PERSONA(
+  DNI VARCHAR(9) NOT NULL,
+  NOMBRE VARCHAR(255) NOT NULL,
+  APELLIDOS VARCHAR(255) NOT NULL,
+  DIRECCION VARCHAR(255),
+  TURNO INTEGER,
+  PRIMARY KEY (DNI)
+  
+);
+
+
+INSERT INTO PERSONA VALUES('61111111H','Carmen','García','dirA',1);
+INSERT INTO PERSONA VALUES('15151515P','Jose','Pérez','dirB', 2);
+
+INSERT INTO PERSONA VALUES('11111111H','Luis','Pérez','direccion1',0);
+INSERT INTO PERSONA VALUES('22222222J','Antonio','Sánchez','direccion2',0);
+INSERT INTO PERSONA VALUES('44444444J','Carlos','Vega','direccion3',0);
+INSERT INTO PERSONA VALUES('33333333P','Pablo','Mora','direccion4',0);
+

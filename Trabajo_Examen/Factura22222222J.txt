@@ -1,0 +1,24 @@
+Cliente : Antonio
+metodo de pago : PayPal
+**************************pedidos realizados en 2022 ********************* 
+1001
+1005
+1007
+1011
+1021
+Cliente : Antonio
+metodo de pago : PayPal
+**************************pedidos realizados en 2022 ********************* 
+1001
+1005
+1007
+1011
+1021
+Cliente : Antonio
+metodo de pago : PayPal
+**************************pedidos realizados en 2022 ********************* 
+1001
+1005
+1007
+1011
+1021

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Dune",
+    "author": "Frank Herbert",
+    "year": "1965",
+    "review": "7"
+  },
+  {
+    "name": "Foundation",
+    "author": "Isaac Asimov",
+    "year": "1951",
+    "review": "2"
+  },
+  {
+    "name": "Neuromancer",
+    "author": "William Gibson",
+    "year": "1984",
+    "review": "4"
+  },
+  {
+    "name": "1984",
+    "author": "George Orwell",
+    "year": "1949",
+    "review": "6"
+  },
+  {
+    "name": "Brave New World",
+    "author": "Aldous Huxley",
+    "year": "1932",
+    "review": "8"
+  },
+  {
+    "name": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "year": "1979",
+    "review": "9"
+  }
+]

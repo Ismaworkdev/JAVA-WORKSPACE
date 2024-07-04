@@ -1,0 +1,73 @@
+package ejer_json_propio;
+
+import java.io.FileReader;
+import java.util.ArrayList;
+import java.util.List;
+
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+
+public class App_json_autores {
+private ArrayList<clase_autores>autor;
+
+
+	public App_json_autores(ArrayList<clase_autores> autor) {
+	super();
+	this.autor = autor;
+}
+
+	public App_json_autores() {
+	super();
+	this.autor = new ArrayList<>();
+}
+
+
+	public ArrayList<clase_autores> getAutor() {
+		return autor;
+	}
+
+	public void setAutor(ArrayList<clase_autores> autor) {
+		this.autor = autor;
+	}
+
+	public static void main(String[] args) {
+		clase_autores p = new clase_autores(); 
+	
+        JSONParser parser= new JSONParser();
+        
+        try {
+            Object obj = parser.parse(new FileReader("copia.json"));
+            
+            if (obj instanceof JSONObject) {
+                JSONArray autores = (JSONArray) obj;
+                autores.forEach(act -> parseactores((JSONObject) act));
+                List<String> autor = p.getNombre().stream().map(a -> a.getNombre()).distinct().collect(Collectors.toList());
+                System.out.println(autor);
+            }
+
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+        }
+    }
+    
+  
+    
+    private static void   parseactores(JSONObject act) {
+		// TODO Auto-generated method stub
+    	String nombre=(String)act.get("name");
+    	String autor=(String)act.get("author");
+    	String edad=(String)act.get("year");
+    	
+    	
+    	
+    	System.out.println(nombre +" "+autor+" "+edad);
+		
+	}
+
+
+
+
+}
+
+

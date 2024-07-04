@@ -1,0 +1,24 @@
+Cliente : Luis
+metodo de pago : Visa
+**************************pedidos realizados en 2022 ********************* 
+1000
+1003
+1006
+1010
+1020
+Cliente : Luis
+metodo de pago : Visa
+**************************pedidos realizados en 2022 ********************* 
+1000
+1003
+1006
+1010
+1020
+Cliente : Luis
+metodo de pago : Visa
+**************************pedidos realizados en 2022 ********************* 
+1000
+1003
+1006
+1010
+1020

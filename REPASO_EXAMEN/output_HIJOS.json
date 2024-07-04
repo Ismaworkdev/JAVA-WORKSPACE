@@ -1,0 +1,12 @@
+{
+  "CADENAS": {
+    "DRIVER": "jdbc:oracle:thin:",
+    "SERVIDOR": "localhost",
+    "PUERTO": "1521",
+    "SID": "XE"
+  },
+  "USUARIOS": {
+    "USUARIO": "XX",
+    "CLAVE": "XX"
+  }
+}

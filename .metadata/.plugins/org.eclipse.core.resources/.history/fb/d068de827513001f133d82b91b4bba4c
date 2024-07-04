@@ -1,0 +1,46 @@
+package EXAMEN2023;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
+public class App {
+
+	
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//System.out.println("los mega que papi ");
+        // Cargar empleados desde la base de datos
+        try {
+			BD.getInstance();
+			   BD.getInstance().cargarParametrosconexion();
+		        
+				
+	            ArrayList<Monitor> monn = BD.getInstance().cargarMonitor();
+	            for (Monitor lol : monn) {
+ 	      Monitor mOO= new Monitor(lol.getCod_monitor(), lol.getNombre(), lol.getApellido());
+	            	
+	                Gerente g = new Gerente( lol.getNombre(), lol.getApellido());
+	                ArrayList<String> meses = new ArrayList<>(Arrays.asList("Mayo", "Marzo", "Febrero", "Enero", "Abril"));
+
+	                for (String mes : meses) {
+	                	  g.pagoMonitor(mOO, mes, 2023);
+	                	  System.out.println(mes);
+	                }
+	              
+	                         System.out.println(lol.getNombre());
+	               
+	            }
+		        
+		        
+		        
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+     
+		
+	}
+
+}
